@@ -3,6 +3,8 @@
 Is a bot that searches monochromatic cliparts in duckduckgo, transforms it into segments, and draws it using the mouse.
 May be useful for online drawing games like skribbl or gartic.io.
 
+![Demo](https://github.com/wviana/drawerbot/raw/main/demo.gif)
+
 ## Dependences
 
 You'll need to install potrace and geckodriver.
